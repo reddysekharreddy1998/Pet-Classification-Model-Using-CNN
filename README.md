@@ -34,7 +34,7 @@ Begin by creating the ipynb file in the same parent folder where the downloaded 
 
 ● Dropout layer with dropout probability 0.4 
 
-Predict the class by doing a softmax on the output of the dropout layers. 
+Predict the class by doing a sigmoid on the output of the dropout layers. 
 
 This should be followed by training and evaluation: 
 
